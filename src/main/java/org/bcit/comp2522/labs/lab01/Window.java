@@ -4,6 +4,10 @@ import processing.core.PApplet;
 
 /**
  * an example program that draws a simple image to the screen.
+ *
+ * @author keagan
+ *
+ * @version 1.0
  */
 public class Window extends PApplet {
 
